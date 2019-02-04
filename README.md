@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to detect a sequence of keystrokes in JavaScript
 
 One of the most used features of JavaScript is its ability to react on various events that may occur while the user interacts with the web page. In fact, that was the very idea of JavaScript when it appeared, to make web pages dynamic by adding some interactivity to them. With JavaScript we can react when a user clicks on a specific part of the page, when a key is pressed, when mouse moves, when the page is loaded, when an element gets focused, etc.
@@ -654,3 +655,9 @@ Adding new functionality for key events is now as easy as writing a function tha
 Even though the basic functionality of reacting on a specific key sequence was a short and simple task, I wanted to go a few steps further and show how we can really make a function that is flexible to enable us a bit more control. We achieved that with passing the list of callback functions and an options object to the `keyMapper` function. But you can make the function even more customizable by providing more options and adding the code into the function related to those new options. Depending on what you need, you can extend it as much as you like. Of course, be reasonable in doing that because you want your code to be readable and easy to reason about.
 
 I hope this article has given you some ideas how you can use this in your projects and please feel free to share them in the comments if you like. Thank you for reading and Happy New Year!
+=======
+# Sequential-keybinding
+
+Based on the tutoiral found here: 
+https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93
+>>>>>>> ac393fd41481fc3f34915a3a9fdb423e7aed2c07
